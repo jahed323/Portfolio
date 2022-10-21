@@ -1,6 +1,6 @@
 # About Me
 
-**Education**: 
+**Education**:  
 Master of Science in Data Science from Bellevue University, Graduating in November 2022  
 Bachelor of Science in Computer Engineering from New Jersey Institute of Technology, Class of 2020
 
