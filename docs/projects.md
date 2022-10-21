@@ -1,4 +1,4 @@
-# Jahedur's Data Science Projects
+# My Data Science Projects
 
 [Bitcoin Price Prediction](https://github.com/jahed323/jahed323.github.io/tree/main/Bitcoin%20price%20prediction)
 
