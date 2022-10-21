@@ -2,4 +2,4 @@
 
 #### [All projects](https://jahed323.github.io/projects)
 
-#### [About Nicole](https://jahed323.github.io/about)
+#### [About Jahedur](https://jahed323.github.io/about)
