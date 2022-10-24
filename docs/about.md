@@ -1,9 +1,7 @@
 # About Me
 
-**Education**:  
-Master of Science in Data Science from Bellevue University, Graduating in November 2022  
-Bachelor of Science in Computer Engineering from New Jersey Institute of Technology, Class of 2020
-
+In 2020, I graduated with a Bachelor of Science in Computer Engineering from New Jersey Institute of Technology. After learning about SQL and RDBMS during on the job training, I became fascinated about working with data. I then found myself enrolled to get a Master of Science in Data Science from Bellevue University. My fascination grew through projects and the many things I learned about data science. 
+<br/>
 [Resume](https://github.com/jahed323/jahed323.github.io/blob/main/docs/Jahedur_Rahman%20_Resume.pdf)
 <br/>
 <br/>
