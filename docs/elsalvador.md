@@ -9,5 +9,4 @@ After El Salvador listed Bitcoin as a legal tender, it confused many people. The
 [Back to Projects](https://jahed323.github.io/projects)
 <br/>
 <br/>
-<br/>
 [Back to Home](https://jahed323.github.io/)
