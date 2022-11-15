@@ -13,6 +13,8 @@
 [US Retail Sales](https://jahed323.github.io/retailsales)
 
 [Mobile Price Prediction](https://jahed323.github.io/mobile)
+
+[Brain Stroke Prediction](https://jahed323.github.io/brainstroke)
 <br/>
 <br/>
 <br/>
