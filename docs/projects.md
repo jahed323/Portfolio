@@ -2,7 +2,7 @@
 
 [Bitcoin Price Prediction](https://github.com/jahed323/jahed323.github.io/tree/main/Bitcoin%20price%20prediction)
 
-[EDA Gender Pay Gap](https://github.com/jahed323/jahed323.github.io/tree/main/EDA%20Gender%20Pay%20Gap)
+[EDA Gender Pay Gap](https://jahed323.github.io/genderpay)
 
 [El Salvador’s effect on Bitcoin](https://jahed323.github.io/elsalvador)
 
