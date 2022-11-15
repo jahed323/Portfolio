@@ -4,7 +4,7 @@
 
 [EDA Gender Pay Gap](https://github.com/jahed323/jahed323.github.io/tree/main/EDA%20Gender%20Pay%20Gap)
 
-[El Salvador’s effect on Bitcoin](https://github.com/jahed323/jahed323.github.io/tree/main/El%20Salvador’s%20effect%20on%20Bitcoin)
+[El Salvador’s effect on Bitcoin](https://jahed323.github.io/elsalvador)
 
 [Loan dataset modeling](https://github.com/jahed323/jahed323.github.io/tree/main/Loan%20dataset%20modeling)
 
