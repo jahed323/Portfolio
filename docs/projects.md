@@ -1,14 +1,14 @@
 # My Data Science Projects
 
-[Bitcoin Price Prediction](https://github.com/jahed323/jahed323.github.io/tree/main/Bitcoin%20price%20prediction)
+[Bitcoin Price Prediction](https://jahed323.github.io/bitcoin)
 
 [EDA Gender Pay Gap](https://jahed323.github.io/genderpay)
 
 [El Salvador’s effect on Bitcoin](https://jahed323.github.io/elsalvador)
 
-[Loan dataset modeling](https://github.com/jahed323/jahed323.github.io/tree/main/Loan%20dataset%20modeling)
+[Loan dataset modeling](https://jahed323.github.io/loan)
 
-[The Efficacy of the Covid-19 Vaccine](https://github.com/jahed323/jahed323.github.io/tree/main/The%20Efficacy%20of%20the%20Covid-19%20Vaccine)
+[The Efficacy of the Covid-19 Vaccine](https://jahed323.github.io/covid19)
 
 [US Retail Sales](https://jahed323.github.io/retailsales)
 <br/>
