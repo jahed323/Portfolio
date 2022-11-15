@@ -11,6 +11,8 @@
 [The Efficacy of the Covid-19 Vaccine](https://jahed323.github.io/covid19)
 
 [US Retail Sales](https://jahed323.github.io/retailsales)
+
+[Mobile Price Prediction](https://jahed323.github.io/mobile)
 <br/>
 <br/>
 <br/>
