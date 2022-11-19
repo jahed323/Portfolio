@@ -6,7 +6,7 @@
 
 [El Salvador’s effect on Bitcoin](https://jahed323.github.io/elsalvador)
 
-[Loan dataset modeling](https://jahed323.github.io/loan)
+[Loan Dataset Modeling](https://jahed323.github.io/loan)
 
 [The Efficacy of the Covid-19 Vaccine](https://jahed323.github.io/covid19)
 
