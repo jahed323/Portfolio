@@ -15,6 +15,8 @@
 [Mobile Price Prediction](https://jahed323.github.io/mobile)
 
 [Brain Stroke Prediction](https://jahed323.github.io/brainstroke)
+
+[LSTM Text Generator](https://jahed323.github.io/lstm)
 <br/>
 <br/>
 <br/>
